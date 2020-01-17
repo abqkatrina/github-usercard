@@ -18,12 +18,12 @@ In this project we are going to be accessing the GitHub API and building a socia
 
 **Follow these steps to set up and work on your project:**
 
-* [ ] Create a forked copy of this project.
-* [ ] Add your project manager as collaborator on Github.
-* [ ] Clone your OWN version of the repository (Not Lambda's by mistake!).
-* [ ] Create a new branch: git checkout -b `<firstName-lastName>`.
-* [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
-* [ ] Push commits: git push origin `<firstName-lastName>`.
+* [X] Create a forked copy of this project.
+* [X] Add your project manager as collaborator on Github.
+* [X] Clone your OWN version of the repository (Not Lambda's by mistake!).
+* [X] Create a new branch: git checkout -b `<firstName-lastName>`.
+* [X] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
+* [X] Push commits: git push origin `<firstName-lastName>`.
 
 **Follow these steps for completing your project.**
 
@@ -36,7 +36,7 @@ In this project we are going to be accessing the GitHub API and building a socia
   * None. We have gone ahead and taken care of this step for you. Focus on the Javascript 😁.
 
 ### Part 1: Requesting Data from the GitHub API
-* Include the script element linking the `axios` library in your HTML. If you do not remember the code you can find it here: https://github.com/axios/axios
+X* Include the script element linking the `axios` library in your HTML. If you do not remember the code you can find it here: https://github.com/axios/axios
 * Follow the instructions found in the GitHubCard/index.js file to request data from the GitHub API.
 
 ### Part 2: Create the component function
